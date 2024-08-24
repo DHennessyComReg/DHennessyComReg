@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning R, GitHub, Quarto
 - 📫 Reach me donnacha.hennessy@comreg.ie
 - 💬 Ask me about
-* Competition policy
-* Regulatory economics
-#* Opendata
+  * Competition policy
+  * Regulatory economics
+  * Opendata
 
  
 **Writing**
