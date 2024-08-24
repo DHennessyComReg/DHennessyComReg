@@ -1,9 +1,17 @@
 - 👋 Hi, I’m @DHennessyComReg
-- 👀 I’m interested in regulatory economics and data science
+- 🔨 Economist @ ComReg
+- 👀 I’m interested in regulatory economics 
 - 🌱 I’m currently learning R, GitHub, Quarto
-- 💞️ I’m looking to collaborate on opendata I.O projects
 - 📫 How to reach me donnacha.hennessy@comreg.ie
+- 💬 Ask me about
+  -Search
+  -Recommender Systems
+  -NLP
+  -Knowledge Graphs, Graph Embeddings, and Graph Databases
+  -Explainable AI
+  -Machine Learning
 
+**Writing**
 
 <!---
 DHennessyComReg/DHennessyComReg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
