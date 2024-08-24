@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I’m @DHennessyComReg
+# 👋 Hi, I’m Donnacha
 - 🔨 Economist @ ComReg
 - 👀 I’m interested in regulatory economics 
 - 🌱 I’m currently learning R, GitHub, Quarto
