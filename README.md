@@ -4,13 +4,10 @@
 - 🌱 I’m currently learning R, GitHub, Quarto
 - 📫 Reach me donnacha.hennessy@comreg.ie
 - 💬 Ask me about
---Search
-  -Recommender Systems
-  -NLP
-  -Knowledge Graphs, Graph Embeddings, and Graph Databases
-  -Explainable AI
-  -Machine Learning
-
+- Competition policy
+- Regulatory economics
+- Opendata
+- 
 **Writing**
 
 <!---
