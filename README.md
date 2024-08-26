@@ -8,7 +8,7 @@
 - 💬 Ask me about
   * Competition policy
   * Regulatory economics
-  * Opendata
+
 
  <!---
 DHennessyComReg/DHennessyComReg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
