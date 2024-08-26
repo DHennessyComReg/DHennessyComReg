@@ -4,7 +4,7 @@
 - 🔨 Economist @ ComReg
 - 👀 I’m interested in regulatory economics 
 - 🌱 I’m currently learning R, GitHub, Quarto
-- 📫 Reach me donnacha.hennessy@comreg.ie or in/donnacha-hennessy
+- 📫 Reach me donnacha.hennessy@comreg.ie or [in/donnacha-hennessy](https://www.linkedin.com/in/donnacha-hennessy/)
 
 
 
