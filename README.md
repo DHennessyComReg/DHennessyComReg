@@ -5,9 +5,7 @@
 - 👀 I’m interested in regulatory economics 
 - 🌱 I’m currently learning R, GitHub, Quarto
 - 📫 Reach me donnacha.hennessy@comreg.ie
-- 💬 Ask me about
-  * Competition policy
-  * Regulatory economics
+
 
 
  <!---
