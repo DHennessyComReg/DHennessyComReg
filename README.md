@@ -5,6 +5,10 @@
 - 👀 I’m interested in regulatory economics, competition policy and data science
 - 🌱 I’m currently learning R, GitHub, Quarto
 - 📫 Reach me donnacha.hennessy@comreg.ie or [in/donnacha-hennessy](https://www.linkedin.com/in/donnacha-hennessy/)
+- 💬 Ask me about
+  -Competition policy
+  -Regulatory economics
+  -Opendata
 
 
 
