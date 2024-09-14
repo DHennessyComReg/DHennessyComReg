@@ -1,9 +1,9 @@
 
 
 # 👋 Hi, I’m Donnacha
-- 🔨 Economist @ ComReg
+- 🔨 Regulatory Economist @ ComReg
 - 👀 I’m interested in regulatory economics, competition policy and data science
-- 🌱 I’m currently learning R, GitHub, Quarto
+- 🌱 I’m currently learning R, Git, Quarto
 - 📫 Reach me donnacha.hennessy@comreg.ie or [in/donnacha-hennessy](https://www.linkedin.com/in/donnacha-hennessy/)
 
 
